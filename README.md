@@ -7,11 +7,11 @@ What is Snip: https://github.com/dlrudie/Snip
 
 
 ## How to setup
+1. Launch `Snip.exe`
+1. Enable Save `Snip_Artwork.jpg` <br> ![image](https://user-images.githubusercontent.com/11992915/93876265-87a17c00-fd11-11ea-9035-b318e5e85785.png)
 1. Copy `snip_artwork.html` to `Snip_Artwork.jpg` dir
 1. Add a `Browser` source to your scene.
-1. Choose `snip_artwork.html`
-
-![image](https://user-images.githubusercontent.com/11992915/93851587-5dd55e80-fceb-11ea-85d6-d81eda89abe3.png)
+1. Choose `snip_artwork.html` <br> ![image](https://user-images.githubusercontent.com/11992915/93851587-5dd55e80-fceb-11ea-85d6-d81eda89abe3.png)
 
 ## Tips
 
