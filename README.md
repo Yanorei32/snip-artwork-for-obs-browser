@@ -1,10 +1,11 @@
 # Snip Artwork for OBS Browser
 
-What is Snip: https://github.com/dlrudie/Snip
+
 	
 ![image](https://user-images.githubusercontent.com/11992915/93876166-5163fc80-fd11-11ea-9606-e2c16cd8be53.png)
 
-
+## Requirements
+Snip: https://github.com/dlrudie/Snip
 
 ## How to setup
 1. Launch `Snip.exe`
