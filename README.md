@@ -16,7 +16,7 @@ Snip: https://github.com/dlrudie/Snip
 
 ## Add artwork
 6. Enable Save `Snip_Artwork.jpg` <br> ![image](https://user-images.githubusercontent.com/11992915/93876265-87a17c00-fd11-11ea-9035-b318e5e85785.png)
-1. Copy `snip_artwork.html` to `Snip_Artwork.jpg` dir
+1. Copy `snip_artwork.html` to Snip application directory
 1. Add a `Browser` source to your scene.
 1. Choose `snip_artwork.html` <br> ![image](https://user-images.githubusercontent.com/11992915/93876905-8c1a6480-fd12-11ea-97c2-412fc316699d.png)
 
