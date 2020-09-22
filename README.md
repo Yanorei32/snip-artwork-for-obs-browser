@@ -12,7 +12,7 @@ Snip: https://github.com/dlrudie/Snip
 2. Click `Set Output Format` <br> ![image](https://user-images.githubusercontent.com/11992915/93877080-d4d21d80-fd12-11ea-8257-9c27cd566e5f.png)
 1. Write Format <br> ![image](https://user-images.githubusercontent.com/11992915/93877089-d7347780-fd12-11ea-8efb-86c516ec18e6.png)
 1. Add `Text (GDI+)` source to your OBS scene.
-1. Choose `Snip.txt` <br> ![image](https://user-images.githubusercontent.com/11992915/93876705-3b0a7080-fd12-11ea-9ffa-9a9b81d0911c.png)
+1. Enable `Read from file` and choose `Snip.txt` <br> ![image](https://user-images.githubusercontent.com/11992915/93876705-3b0a7080-fd12-11ea-9ffa-9a9b81d0911c.png)
 
 ## Add artwork
 6. Enable Save `Snip_Artwork.jpg` <br> ![image](https://user-images.githubusercontent.com/11992915/93876265-87a17c00-fd11-11ea-9035-b318e5e85785.png)
