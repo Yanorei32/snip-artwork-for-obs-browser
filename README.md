@@ -2,6 +2,8 @@
 
 What is Snip: https://github.com/dlrudie/Snip
 
+![image](https://user-images.githubusercontent.com/11992915/93852574-38495480-fced-11ea-98dc-e07ca18bd140.png)
+
 
 ## How to setup
 1. Copy `snip_artwork.html` to `Snip_Artwork.jpg` dir
